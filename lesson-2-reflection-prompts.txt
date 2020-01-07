@@ -3,6 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+工作目录是你在电脑上存放文件的地方，是你在用的目录。而暂存区是你准备提交的文件。而版本库是隐藏的git文件，代表你已经修改了的文件保存点。
 
 How can you use the staging area to make sure you have one commit per logical
 change?
